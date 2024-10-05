@@ -8,3 +8,7 @@ const InitialUsersState = {
         name: 'John',
     }],
 }
+
+// actions|| 2 things have one type and another payload
+// Increment the counter
+// Decrement the counter
